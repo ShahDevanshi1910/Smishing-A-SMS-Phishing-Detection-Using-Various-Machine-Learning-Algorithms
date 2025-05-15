@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "723675699786",
+    "project_id": "smsphishing-a77d9",
+    "storage_bucket": "smsphishing-a77d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723675699786:android:763bc1e52a74964b52a4b3",
+        "android_client_info": {
+          "package_name": "com.example.smsphishing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723675699786-o2klb3n9florrftbl7t1q61tlkt7ukuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smsphishing",
+            "certificate_hash": "1808920b0a770a469db521c845ccff4893da6deb"
+          }
+        },
+        {
+          "client_id": "723675699786-quhgceidptolplmo0hh1pm96eptbufnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBveDKroeawKEaOHuOn0JJZV92dqBM5EgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723675699786-a1v8bbbm286pc0c7gml9cu8gqhqrhpvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
